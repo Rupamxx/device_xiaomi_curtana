@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_curtana.mk
+    $(LOCAL_DIR)/lineage_gram.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_curtana-user \
-    aosip_curtana-userdebug \
-    aosip_curtana-eng
+    lineage_gram-user \
+    lineage_gram-userdebug \
+    lineage_gram-eng
